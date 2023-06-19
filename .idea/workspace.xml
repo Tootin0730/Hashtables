@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b69ec56-61a4-476e-936d-0297ff921f41" name="Changes" comment="Linear Probing">
+    <list default="true" id="1b69ec56-61a4-476e-936d-0297ff921f41" name="Changes" comment="Chaining">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/SimpleHashtable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/ChainedHashtable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,14 +79,22 @@
       <option name="project" value="LOCAL" />
       <updated>1686715536487</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Chaining">
+      <created>1686908222456</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1686908222456</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="Hashtables (Array Implementation)" />
     <MESSAGE value="Linear Probing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Linear Probing" />
+    <MESSAGE value="Chaining" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chaining" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
