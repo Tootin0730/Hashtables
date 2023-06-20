@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b69ec56-61a4-476e-936d-0297ff921f41" name="Changes" comment="Bucket Sort implementation">
+    <list default="true" id="1b69ec56-61a4-476e-936d-0297ff921f41" name="Changes" comment="Hashtable Challenge #1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/ChainedHashtable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/academy/learnprogramming/Hashtable/StoredEmployee.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687167988455</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Hashtable Challenge #1">
+      <created>1687248918975</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1687248918975</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -113,7 +117,8 @@
     <MESSAGE value="Chaining" />
     <MESSAGE value="Hashtable and the JDK" />
     <MESSAGE value="Bucket Sort implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bucket Sort implementation" />
+    <MESSAGE value="Hashtable Challenge #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hashtable Challenge #1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
