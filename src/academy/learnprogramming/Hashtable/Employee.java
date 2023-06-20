@@ -1,6 +1,7 @@
 package academy.learnprogramming.Hashtable;
 
 public class Employee {
+
     private String firstName;
     private String lastName;
     private int id;
